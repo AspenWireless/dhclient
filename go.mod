@@ -1,4 +1,4 @@
-module github.com/digineo/go-dhclient
+module github.com/AspenWireless/dhclient
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -8,4 +8,4 @@ require (
 	golang.org/x/net v0.0.0-20191003171128-d98b1b443823 // indirect
 )
 
-go 1.13
+go 1.19
